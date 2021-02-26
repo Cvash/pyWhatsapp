@@ -1,6 +1,0 @@
---------------------
-Date: 29:10:2020
-Time: 20:49
-Phone number: +51902257704
-Message: Hello word, I am python!
---------------------

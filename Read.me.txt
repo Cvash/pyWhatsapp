@@ -1,1 +1,0 @@
-Enviar mensajes de texto a whatsapp mediante el lenguaje de python.
